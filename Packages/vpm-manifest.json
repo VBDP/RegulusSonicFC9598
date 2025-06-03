@@ -8,6 +8,15 @@
     },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
+    },
+    "com.furality.somnashader": {
+      "version": "1.0.2"
+    },
+    "com.furality.umbrashader": {
+      "version": "1.6.0"
+    },
+    "com.furality.sylvashader": {
+      "version": "1.3.3"
     }
   },
   "locked": {
@@ -24,6 +33,28 @@
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29",
       "dependencies": {}
+    },
+    "com.furality.somnashader": {
+      "version": "1.0.2",
+      "dependencies": {
+        "com.llealloo.audiolink": "2.x.x"
+      }
+    },
+    "com.furality.umbrashader": {
+      "version": "1.6.0",
+      "dependencies": {
+        "com.llealloo.audiolink": "1.3.0"
+      }
+    },
+    "com.llealloo.audiolink": {
+      "version": "1.3.0",
+      "dependencies": {}
+    },
+    "com.furality.sylvashader": {
+      "version": "1.3.3",
+      "dependencies": {
+        "com.llealloo.audiolink": "1.3.0"
+      }
     }
   }
 }
