@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Regulus2.0_SelectFaceMenu2
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u7167\u308C"
+    icon: {fileID: 2800000, guid: 4d05096307dd11b49aab325bbc2db2c9, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u3064\u304B\u308C\u305F"
+    icon: {fileID: 2800000, guid: 00422c094e6650f43b305eebd4b789a7, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u60B2\u3057\u3044"
+    icon: {fileID: 2800000, guid: 65f79433b22e91e489c2a055c6606a5a, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u3074\u3048\u3093"
+    icon: {fileID: 2800000, guid: 5d6316958dcbbe64db1c2f577a9da847, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u304D\u3089\u304D\u3089"
+    icon: {fileID: 2800000, guid: d85149948be886744af1a764daaaa622, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u3050\u308B\u3050\u308B"
+    icon: {fileID: 2800000, guid: 452d261accb79ee46b815473bd89600f, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 14
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u3058\u3068\u76EE"
+    icon: {fileID: 2800000, guid: 496eecec32555eb43b3fc0a4b1377b5c, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 15
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30E4\u30F3\u30C7\u30EC"
+    icon: {fileID: 2800000, guid: 98e04fb1f179b734ab6429e307855b03, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 16
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Regulus2.0_cloth
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Poncho
+    icon: {fileID: 2800000, guid: cf6591defe625af4d91ceaf896268364, type: 3}
+    type: 102
+    parameter:
+      name: Poncho
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pants
+    icon: {fileID: 2800000, guid: 87bfb3d7b68019d46867d20874e26acd, type: 3}
+    type: 102
+    parameter:
+      name: Pants
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
