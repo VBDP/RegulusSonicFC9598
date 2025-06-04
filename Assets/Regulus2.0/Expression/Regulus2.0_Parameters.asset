@@ -12,40 +12,70 @@ MonoBehaviour:
   m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Regulus2.0_Parameters
   m_EditorClassIdentifier: 
+  isEmpty: 0
   parameters:
   - name: VRCEmote
     valueType: 0
     saved: 0
     defaultValue: 0
+    networkSynced: 1
   - name: Face
     valueType: 0
     saved: 0
     defaultValue: 0
+    networkSynced: 0
   - name: isTongueOut
     valueType: 2
     saved: 0
     defaultValue: 0
+    networkSynced: 0
   - name: TailX
     valueType: 1
     saved: 0
     defaultValue: 0
+    networkSynced: 1
   - name: TailY
     valueType: 1
     saved: 0
     defaultValue: 0
+    networkSynced: 1
   - name: MouthH
     valueType: 1
     saved: 0
     defaultValue: 0
+    networkSynced: 0
   - name: MouthV
     valueType: 1
     saved: 0
     defaultValue: 0
+    networkSynced: 0
   - name: Poncho
     valueType: 2
     saved: 1
     defaultValue: 1
+    networkSynced: 0
   - name: Pants
     valueType: 2
     saved: 1
     defaultValue: 1
+    networkSynced: 0
+  - name: MemOpt_Indexer 1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_Indexer 2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 0
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 0
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
