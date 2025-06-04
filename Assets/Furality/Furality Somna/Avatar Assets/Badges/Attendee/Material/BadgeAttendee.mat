@@ -60,15 +60,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 3b60c8e869535c847af435c2abebce64, type: 3}
+        m_Texture: {fileID: 2800000, guid: 013598b031a54554186acaaabff0d00a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d39abe8a82d1418428588c2bc73682a3, type: 3}
+        m_Texture: {fileID: 2800000, guid: b68f95cb6d506fd43915ee87cedf2de7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap01:
-        m_Texture: {fileID: 2800000, guid: ad8267879d64e5144a605e42418f8acc, type: 3}
+        m_Texture: {fileID: 2800000, guid: 38d45ad13fd19744ca6fe27c05b56423, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap02:
@@ -402,6 +402,7 @@ Material:
     - _AlphaChReactiveRadialCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _AlphaChReactiveTint: {r: 1, g: 1, b: 1, a: 0}
     - _AnimatedOffsetDirectionalMap: {r: 0, g: 0, b: 0, a: 0}
+    - _AnimatedOffsetEmissionMask: {r: 0, g: 0, b: 0, a: 0}
     - _AnimatedOffsetEmssion: {r: 0, g: 0, b: 0, a: 0}
     - _AnimatedOffsetMainTex: {r: 0, g: 0, b: 0, a: 0}
     - _AnimatedOffsetMaskMap01: {r: 0, g: 0, b: 0, a: 0}

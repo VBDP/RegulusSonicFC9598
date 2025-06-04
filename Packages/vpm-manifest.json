@@ -23,6 +23,27 @@
     },
     "jp.lilxyzw.liltoon": {
       "version": "1.10.3"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.4"
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.35"
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.1230.0"
+    },
+    "gogoloco": {
+      "version": "1.8.6"
+    },
+    "com.poiyomi.toon": {
+      "version": "9.2.43"
+    },
+    "dev.jetees.memoryoptimizer": {
+      "version": "0.1.18"
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.12.5"
     }
   },
   "locked": {
@@ -70,6 +91,49 @@
     },
     "jp.lilxyzw.liltoon": {
       "version": "1.10.3",
+      "dependencies": {}
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.4",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.5.2 < 3.9.X"
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.35",
+      "dependencies": {
+        "com.vrchat.avatars": "3.2 - 3.8"
+      }
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.1230.0",
+      "dependencies": {}
+    },
+    "gogoloco": {
+      "version": "1.8.6",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.2.2"
+      }
+    },
+    "com.poiyomi.toon": {
+      "version": "9.2.43",
+      "dependencies": {}
+    },
+    "dev.jetees.memoryoptimizer": {
+      "version": "0.1.18",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.5.1"
+      }
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.12.5",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.7.4",
+        "nadena.dev.ndmf": ">=1.7.7 <2.0.0-a"
+      }
+    },
+    "nadena.dev.ndmf": {
+      "version": "1.7.10",
       "dependencies": {}
     }
   }

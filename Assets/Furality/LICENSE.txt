@@ -1,6 +1,6 @@
-Copyright 2024 Furality, Inc.
+Copyright 2025 Furality, Inc.
 
-Licensed under the Furality, Inc. Asset License Version 1.4 (the "License");
+Licensed under the Furality, Inc. Asset License Version 1.5 (the "License");
 you may not use these asset files except in compliance with the License.
 You may obtain a copy of the License at
 
@@ -14,7 +14,7 @@ limitations under the License.
 
 -------
 
-Furality, Inc. Asset License Version 1.4
+Furality, Inc. Asset License Version 1.5
 =======================================
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -27,7 +27,7 @@ How can I use licensed content?
     Notwithstanding use restrictions (see Restricted Uses below) and the rest of the terms of this agreement,
     the usage rights granted to you by Furality, Inc. for each asset type are:
 
-    Furality Aqua Shader / Furality Legendary Shader / Furality Luma Shader / Furality Sylva Shader / Furality Umbra Shader
+    Furality Aqua Shader / Furality Legendary Shader / Furality Luma Shader / Furality Sylva Shader / Furality Umbra Shader / Furality Somna Shader
     - You can use this asset for commercial use.
     - You can use this asset for personal use.
     - You can use this asset in public and/or private avatars uploaded to VRChat.
@@ -42,7 +42,8 @@ How can I use licensed content?
         any part of the shader code.
 
 
-    Furality Aqua Runes / Furality Luma Flow / Furality Aqua Substance Painter Tools / Furality Luma Runes / Furality Sylva Substance Painter Tools / Furality Umbra Substance Painter Tools
+    Furality Aqua Runes / Furality Luma Flow / Furality Aqua Substance Painter Tools / Furality Luma Runes / Furality Sylva Substance Painter Tools 
+        / Furality Umbra Substance Painter Tools / Furality Somna Creator Assets / Furality Somna Sigils / Furality Somna Constellation Alphas / Furality Somna Pattern Alphas
     - You can use this asset for commercial use.
     - You can use this asset for personal use.
     - You can modify this asset.
