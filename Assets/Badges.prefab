@@ -217,7 +217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1230.0
+  vrcfuryVersion: 1.1232.0
   somethingIsBroken: 0
   config:
     features: []
@@ -230,7 +230,7 @@ MonoBehaviour:
       type: {class: Toggle, ns: VF.Model.Feature, asm: VRCFury}
       data:
         version: 3
-        name: Clothes/Poncho/Badges
+        name: Clothes/Badges
         state:
           actions:
           - rid: 931881265073750124
@@ -301,7 +301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1230.0
+  vrcfuryVersion: 1.1232.0
   somethingIsBroken: 0
   config:
     features: []

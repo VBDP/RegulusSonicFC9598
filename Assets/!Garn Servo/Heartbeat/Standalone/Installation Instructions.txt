@@ -1,0 +1,27 @@
+More frequently updated installation instructions (including GIFs and videos) are available below where you downloaded this!
+
+VRCFury Installation:
+1. Drag 'VRCFury Heartbeat Standalone' onto your avatar in the hierarchy. Right-click, 'Unpack Prefab Completely'.
+2. Move the child 'Heartbeat' object in your scene until it is positioned approximately where your heart is. Ensure your placement keeps your viewpoint (eyes) juuust inside the smaller sphere.
+3. Upload. (Or test in Play Mode, first)
+
+VRCFury Note:
+A. If you would like to change the menu path of the heartbeat, select 'VRCFury Heartbeat Standalone' in your hierarchy, and in the inspector edit the VRCFury script at "Full Controller -> Menus & Path Prefix" from 'Body/Heartbeat' to 'XXXXX/Heartbeat'. Make sure to also make the same change down the bottom under "Override Menu Icon".
+
+--------------------------------
+
+Manual Installation:
+1. Drag 'Heartbeat' onto your avatar's chest bone in the hierarchy. Right-click, 'Unpack Prefab Completely'.
+2. Move the 'Heartbeat' object in your scene until it is positioned approximately where your heart is. Ensure your placement keeps your viewpoint (eyes) juuust inside the smaller sphere.
+3. Using the 'Avatars 3.0 Manager' available via the VRChat Creator Companion, merge 'FX Heartbeat Standalone' with your FX layer (default is Write Defaults OFF, WD On available in subfolder). Do the same with 'Params Heartbeat Standalone' and your avatars parameters. Ensure the FX layers and parameters correctly merged. Do not allow any suffix's.
+4. Create a sub-menu in your avatar's menu that points to 'Menu Heartbeat Standalone'. There is a menu icon located in 'Assets/!Garn Servo/Heartbeat/!Resources/Menu Icons'.
+5. Test with Av3Emulator (also available via the VRChat Creator Companion).
+6. Upload.
+
+--------------------------------
+
+General Note:
+A. You can freely adjust the min/max distance of the Audio Source in the 'Heartbeat' game object, if needed. It is roughly pre-scaled/positioned for realistically-scaled avatars (5ft-6ft). Make sure to mirror those adjustments to the VRC Spatial Audio Source as near/far.
+B. If using GogoLoco scaling, the Audio Source won't scale with you, but will remain correctly placed. Bear this in mind while adjusting the position or size of the Audio Source. Feel free to add scaling of the heartbeat object into your GogoLoco scale animation.
+C. You can also freely adjust the volume of the Audio Source in the 'Heartbeat' game object, if needed.
+D. When testing in Play Mode, your Audio Listener won't be your scene view, but your scene's camera. So you need to move the camera to your chest in order to hear the heartbeat.
