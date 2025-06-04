@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Menu Heartbeat Standalone
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: Toggle
     icon: {fileID: 2800000, guid: e87bca87998ba59409b6ade7b93c9ea4, type: 3}

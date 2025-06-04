@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Bottle of stars
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: Toggle Bottle
     icon: {fileID: 2800000, guid: 26198598800147948be6103cf6538acd, type: 3}
