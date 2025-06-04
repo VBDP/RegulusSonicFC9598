@@ -33,9 +33,6 @@
     "gogoloco": {
       "version": "1.8.6"
     },
-    "com.poiyomi.toon": {
-      "version": "9.2.43"
-    },
     "dev.jetees.memoryoptimizer": {
       "version": "0.1.18"
     },
@@ -110,10 +107,6 @@
       "dependencies": {
         "com.vrchat.avatars": ">=3.2.2"
       }
-    },
-    "com.poiyomi.toon": {
-      "version": "9.2.43",
-      "dependencies": {}
     },
     "dev.jetees.memoryoptimizer": {
       "version": "0.1.18",
