@@ -9,14 +9,20 @@
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
     },
-    "com.furality.somnashader": {
-      "version": "1.0.2"
-    },
     "com.furality.umbrashader": {
-      "version": "1.6.0"
+      "version": "1.8.1"
     },
     "com.furality.sylvashader": {
-      "version": "1.3.3"
+      "version": "1.4.0"
+    },
+    "com.furality.somnashader": {
+      "version": "1.0.7"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.8"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.10.3"
     }
   },
   "locked": {
@@ -34,27 +40,37 @@
       "version": "0.1.29",
       "dependencies": {}
     },
+    "com.furality.umbrashader": {
+      "version": "1.8.1",
+      "dependencies": {
+        "com.llealloo.audiolink": "1.x.x"
+      }
+    },
+    "com.furality.sylvashader": {
+      "version": "1.4.0",
+      "dependencies": {
+        "com.llealloo.audiolink": "1.3.0"
+      }
+    },
     "com.furality.somnashader": {
-      "version": "1.0.2",
+      "version": "1.0.7",
       "dependencies": {
         "com.llealloo.audiolink": "2.x.x"
       }
     },
-    "com.furality.umbrashader": {
-      "version": "1.6.0",
-      "dependencies": {
-        "com.llealloo.audiolink": "1.3.0"
-      }
-    },
     "com.llealloo.audiolink": {
-      "version": "1.3.0",
+      "version": "2.1.0",
       "dependencies": {}
     },
-    "com.furality.sylvashader": {
-      "version": "1.3.3",
+    "lyuma.av3emulator": {
+      "version": "3.4.8",
       "dependencies": {
-        "com.llealloo.audiolink": "1.3.0"
+        "com.vrchat.avatars": "^3.1.0"
       }
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.10.3",
+      "dependencies": {}
     }
   }
 }
